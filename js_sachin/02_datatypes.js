@@ -23,4 +23,5 @@ let isLoggedIn = false
 //object
 
 
-console.log(typeof "sachin")
+console.log(typeof null ) // object
+console.log(typeof undefined ) // undefined
